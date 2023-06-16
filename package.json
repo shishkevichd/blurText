@@ -1,0 +1,27 @@
+{
+  "name": "blurtext",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for blurring text",
+  "main": "index.js",
+  "homepage": "https://github.com/sh1shkev1ch/blurText",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sh1shkev1ch/blurText/issues"
+  },
+  "keywords": [
+    "text",
+    "string",
+    "javascript",
+    "blue",
+    "lightweight",
+    "simple",
+    "sentences"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sh1shkev1ch/blurText.git"
+  },
+  "license": "MIT"
+}
