@@ -7,7 +7,7 @@
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save blurText
+$ npm install --save blurtext
 ```
 
 ## Usage
