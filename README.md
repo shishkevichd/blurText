@@ -13,10 +13,9 @@ $ npm install --save blurtext
 ## Usage
 
 ```js
-import blurText from "blurText"
+const { blurText } = require("blurtext");
 
-console.log(blurText("Hello world")) // ░░░░░ ░░░░░
-console.log(blurText("Another hello world", "*")) // ******* ***** *****
+console.log(blurText("beta", "#"))
 ```
 
 ## License
